@@ -1,0 +1,335 @@
+0:00 : OCF : We're starting the meeting, don't you? Yeah, ok. No, great. Cool.
+0:06 : Ari Keränen : Sorry, I didn't actually hear what you said.
+0:08 : OCF : All the codes for starting this meeting now, don't you?
+0:12 : OCF : You have to log in for for the OCF Webex and all that. I think I gave it to you at some point, but, so I, I saw you were already on.
+0:25 : Ari Keränen : Yeah, hey actually I need to pick up a packet from front door. I'll be right back. I have to meet for a second.
+1:51 : Ari Keränen : Already back now, it's a false alert.
+1:54 : OCF : Ah, ok. I think.
+1:59 : OCF : Wait wait a minute. Do, did Jan and Karsten join on the other what were we using.
+2:11 : Ari Keränen : If there is a big, big, big blue button, but I guess we're we're.
+2:15 : OCF : B B b. Oh, that's what that is, ok.
+2:19 : OCF : Good they must have joined that.
+2:23 : Ari Keränen : I guess. The link.
+2:27 : OCF : The note, we're Oh, ok. So they said they're gonna join here. Okay, good. Yeah.
+2:35 : OCF : Because we have a transcription and then.
+2:39 : OCF : Recording available.
+2:41 : OCF : I don't know if big blue button probably does that too.
+2:46 : Ari Keränen : We Wearing where where is the transcription available from.
+2:51 : OCF : Oh, I need to look into, yeah, it's, it's on the, on the Webex site, but I'm not sure what permissions are for it, so I need to check into that.
+3:05 : Ari Keränen : If.
+3:06 : OCF : Yeah.
+3:07 : Ari Keränen : Careful careful what we say.
+3:11 : OCF : Right, right. Well, we've been using recording for a while, so.
+3:17 : OCF : It's essentially this well but transcription just makes it a lot easier and transcription also tries to summarize things and doesn't always.
+3:27 : OCF : You know, doesn't always get it right.
+3:37 : Carsten Bormann : Can you hear me?
+3:40 : OCF : Oh yeah, so.
+3:42 : Ari Keränen : Figures.
+3:43 : Carsten Bormann : I had a yellow triangle so I thought something might be wrong, but.
+3:49 : Carsten Bormann : With triangle to.
+4:05 : Ari Keränen : So Yan also joining?
+4:10 : OCF : I thought so.
+4:18 : OCF : Oh yeah, it looks like John was on the other one also, so, he, he says, ok, we can also join you there so.
+4:27 : OCF : Hopefully, oh yeah, and then you sent the link so you should be showing up soon.
+4:39 : Ari Keränen : So I see Jan sent a, long.
+4:44 : Ari Keränen : MD document in the chat too I'm reading that now.
+4:50 : Ari Keränen : Examples of different instances related messages.
+4:53 : Carsten Bormann : Yep.
+4:55 : Ari Keränen : Is this what you were discussing Carsten?
+4:57 : Carsten Bormann : Yeah.
+5:08 : OCF : The chat, not in this chat, right? Or, I don't know where.
+5:33 : OCF : Ah, there we are.
+5:36 : OCF : Okay, we're all here now.
+5:41 : Jan Romann : Hi everyone. I'm currently on the train somewhere exception.
+5:46 : OCF : Yeah, ok.
+5:48 : Jan Romann : Pretty best honestly, so I might, yeah, I might not be able to hear you for a while.
+5:57 : OCF : Okay.
+6:02 : OCF : The agenda today, you had, you had a thing to review, right?
+6:13 : Jan Romann : Yeah, I mean I prepared some s some some some slides or some, some notes for that that we could review. Maybe we could also recap the meeting with ATRI, who would also be possible.
+6:31 : Carsten Bormann : I type.
+6:31 : Jan Romann : With these other general.
+6:35 : Carsten Bormann : Into the hecker Hackandy this morning, but that was a differenti. So.
+6:44 : Carsten Bormann : I don't know if you actually saw that.
+6:48 : Jan Romann : Oh.
+6:51 : Jan Romann : Not yet I'm afraid.
+6:53 : Carsten Bormann : Okay, so I have to dig that out.
+6:55 : Jan Romann : Did the one before? Oh yeah.
+6:59 : Carsten Bormann : It's the one.
+7:00 : Jan Romann : So when the heck can be.
+7:01 : Carsten Bormann : Yes, that you had prepared at six a m. Or I don't know.
+7:08 : Jan Romann : Oh, yeah.
+7:12 : Jan Romann : Before the the last meeting.
+7:16 : Carsten Bormann : Too much fixing at the moment I'm sorry.
+7:27 : OCF : So for the agenda today, I don't have a lot of stuff prepared so I think we can go ahead and take those topics.
+7:41 : OCF : The review.
+7:44 : OCF : Of the, the meeting with that.
+7:52 : Jan Romann : Yeah.
+7:54 : Jan Romann : Kirsten did you put your notes into the.
+8:02 : Jan Romann : Let me check what's the chat here.
+8:07 : Jan Romann : To to this one because I don't see the.
+8:11 : Jan Romann : Additional notes there. Was it the one before?
+8:15 : OCF : Link to that on telegram or.
+8:19 : OCF : Let's see.
+8:20 : Jan Romann : I put it in the chat here on Webex.
+8:25 : OCF : Didn't see it.
+8:28 : OCF : Oh, there it is. Okay, cool.
+8:30 : Jan Romann : Yeah, or maybe.
+8:32 : Carsten Bormann : This, this actually points to the secondly where I put my notes in.
+8:39 : Carsten Bormann : Under link to the backlog.
+8:42 : OCF : The other, the other, the other long ID.
+8:47 : Carsten Bormann : That's what I actually looked at this morning, so, I haven't looked at the, the.
+8:57 : Carsten Bormann : Other document.
+9:01 : Jan Romann : Yeah I'm no I'm not seeing your notes regarding the terminology for example, right? That was added by you.
+9:15 : Jan Romann : I'll see what you're, you meant.
+9:21 : Carsten Bormann : So there are, if we are all looking at the one KPS and so on thing.
+9:30 : Carsten Bormann : Someone can share that.
+9:33 : Carsten Bormann : I can't.
+9:38 : Jan Romann : Yeah, it might be my connection might be a bit unstable, so maybe I can.
+9:47 : Jan Romann : Maybe someone else can step in.
+9:56 : Jan Romann : Thank you. Thank you.
+9:57 : Carsten Bormann : Know what's gonna.
+10:10 : Carsten Bormann : Thank you. Okay, so.
+10:16 : Carsten Bormann : We, we have two different documents that that come from a different direction.
+10:25 : Carsten Bormann : And and I think both documents are are.
+10:28 : Carsten Bormann : Nearing the the point of convergence, but we aren't quite yeah that quite there yet.
+10:38 : Carsten Bormann : One thing was that the, the entry document.
+10:45 : Carsten Bormann : Tries to distinguish different message types, which is is.
+10:50 : Carsten Bormann : Is probably useful on an example level, but may not have much nutrition value when, when it comes to specifying this stuff. So it's not quite clear that.
+11:07 : Carsten Bormann : Context snapshots and proof shots are different message types in the sense of.
+11:15 : Carsten Bormann : Structural types.
+11:17 : Carsten Bormann : They may very well have different purposes but but just.
+11:22 : Carsten Bormann : Very clear I mean all all interactions have different purposes.
+11:28 : Carsten Bormann : They all could look.
+11:31 : Carsten Bormann : Very similar and so what what we tried here in, in this.
+11:39 : Carsten Bormann : Candy was to actually.
+11:42 : Carsten Bormann : Write down.
+11:44 : Carsten Bormann : Messages in the right format.
+11:49 : Carsten Bormann : And then we can.
+11:53 : Carsten Bormann : See for instance whether a contact snapshot is a different from a crucial whether the difference is that the proof short has all kinds of affordances, the context snapshot only has the context affordances or context of non affordances. If you talk to the right people. The patrices data thing needs to be discussed.
+12:14 : Carsten Bormann : So I think patcher or a Delta is the same thing and.
+12:18 : Carsten Bormann : You you don't model these things, you model the things that you.
+12:24 : Carsten Bormann : Or patches from or for.
+12:29 : Carsten Bormann : So we don't have a patch modeling in that sense. We have different patch formats like RFC sixteen nine oh two.
+12:38 : Carsten Bormann : The JSON patch format.
+12:41 : Carsten Bormann : But I think that that's pretty orphoneal to the rest of the discussion. And the difference between a construction message and the identity manifest is that the construction message is what establishes which can establish an identity and an identity manifest is.
+13:01 : Carsten Bormann : The summary of the result of that construction. So again, it's not a different informat, it's a different in purpose. And so the differences we see here.
+13:18 : Carsten Bormann : Some of them are, are just like the difference between an off switch and and make me a coffee switch, I mean these switches really look very much the same when my coffee maker but they are very different in what they do. So there is a difference but we we are not.
+13:38 : Carsten Bormann : Modeling these things in a different way. And, there are other differences that really are part of the meta model and and one of that is that we have models and instances.
+13:56 : Carsten Bormann : Okay and then when we get down to the JSON, we have a terminology.
+14:03 : Carsten Bormann : Let me go back to terminology, thank you.
+14:07 : Carsten Bormann : So in the.
+14:10 : Carsten Bormann : Documents we have recently been talking about we essentially had a variant of SDF property which is called SDF context and it uses a different class keyword. It might very well use a bit like readable or that, that you can set. So readable or writable are also.
+14:30 : Carsten Bormann : Qualities that make an affordance very different from one that that doesn't have that property. And, another terminology problem if the SDF context declarations are not describing a fallences because we call them non afford.
+14:51 : Carsten Bormann : Then we need a term for the connective set of these interactions services. We we call it some of them.
+15:01 : Carsten Bormann : Affordances and some of them are non affordances and what what if the term we use for affordances and non affordances? So this is very confusing to me.
+15:12 : Carsten Bormann : I mean this is all trivial.
+15:15 : Carsten Bormann : In the end you can describe the same architecture using these different words but.
+15:21 : Carsten Bormann : We should try to, to find words that are less confusing for people who are trying to understand what we are doing.
+15:28 : Carsten Bormann : And, and then of course if SDF context really is that different.
+15:35 : Carsten Bormann : From SDF property than again the question is what's, what's the the decision criteria why why or when do you use one and when do you use the other?
+15:50 : Carsten Bormann : So I I leave these questions open at the moment because everything else we are saying is kind of orthogonal to that. So, what John has done next is just put in an example SDF model and this is slightly broken. Can, can you, yeah. So, it, it has an.
+16:12 : Carsten Bormann : Context.
+16:15 : Carsten Bormann : Thingy.
+16:19 : Carsten Bormann : That has.
+16:21 : Carsten Bormann : That, that has the name insulation info, and then it goes right into a data type and I think the SDF probably below that shows how this really should look like. So we should have something like.
+16:39 : Carsten Bormann : Type object and.
+16:43 : Carsten Bormann : Properties and mount type is one of the properties and the object could have more.
+16:51 : Carsten Bormann : Properties. Very good. Yeah. Thank you. So please delete delete.
+17:04 : Carsten Bormann : You're you can delete my.
+17:06 : Jan Romann : Two point. Yeah, thank you for pointing out the the mistake there.
+17:13 : Carsten Bormann : Yeah, so this is assuming that we really describe SDF context non informances in the same way we described SDF property affordances. And now we can look at the instance message.
+17:30 : Carsten Bormann : And the question really is how this does this instance message.
+17:36 : Carsten Bormann : Correlate with the model.
+17:39 : Carsten Bormann : And STF instance of essentially points from the instance message to the model that governs this.
+17:49 : Carsten Bormann : Instance, and the instance has two.
+17:54 : Carsten Bormann : Ah.
+17:56 : Carsten Bormann : Affordances or non affordances, one is the SDF context and this called insulation info and that has one property which has one type ceiling and we also have another property.
+18:08 : Carsten Bormann : That, that actually is is in affordance because it's provided by the device and that has the one entry status with the value operationally. So, what this does is in the STS instance of.
+18:29 : Carsten Bormann : We point to the model that is governing this.
+18:33 : Carsten Bormann : And the.
+18:37 : Carsten Bormann : The entries under SDF instance.
+18:41 : Carsten Bormann : Essentially dive deeper into the Json pointer that is provided by, by the STF instance of.
+18:51 : Carsten Bormann : So.
+18:53 : Carsten Bormann : Sensors SDF object and sensor slash SDF context slash installation info is the first thing we described and sensors SDF object and sensor SDF properties status is the other thing we describe.
+19:17 : Carsten Bormann : So essentially the, the.
+19:23 : Carsten Bormann : Map keys here.
+19:27 : Carsten Bormann : Add to the Json pointer that we use in the SDF instance of, so we know where to put the data.
+19:37 : Carsten Bormann : What, what is the model level.
+19:45 : Carsten Bormann : The, the pieces of the data description that you describe the instance that that is being interchanged, yeah.
+19:52 : OCF : In that sense, this operates suspiciously and sufficiously similar way to STF REF.
+20:01 : Carsten Bormann : Yes except that this is not a model but a concrete way.
+20:05 : OCF : Yeah, right. Exactly. So, so we're instead of refining a model, we're actually defining an instance, but based on the same SDF pointer to a model.
+20:20 : Carsten Bormann : Yes, so.
+20:24 : Carsten Bormann : You you have to really careful with what based because that can have a lot of semantics here. Yeah. And the the point is that the instance message satisfies the model. It's not modifying the model, it's satisfying it.
+20:50 : Carsten Bormann : Okay, and then we have a context snapshot as an example for a message.
+20:59 : Carsten Bormann : So the example before was was kind of general and now we look how a context snapshot from from the non affordance internet draft would look like. And that fields very natural to me. It's just the subset of this proofshot.
+21:20 : Carsten Bormann : That contains only the SDF context.
+21:23 : Carsten Bormann : Non affordances and not the, the other affordances.
+21:35 : OCF : Okay, right, right.
+21:38 : OCF : So a contact snapshot is just to degraded proof shot basically.
+21:43 : Carsten Bormann : A subset of the information is there.
+22:01 : Carsten Bormann : Yeah, and the context patch.
+22:09 : Carsten Bormann : Which uses a kind of patch in this case the patch method is merge patch, which is the thing that is defined in RFC sixty nine oh two. And, again, it it references the model, it says what match model method is, and then.
+22:30 : Carsten Bormann : It goes into an instance where we assume that instance is.
+22:37 : Carsten Bormann : Available somewhere, and I think that they're the example isn't quite completed.
+22:43 : Carsten Bormann : And applies this much batch.
+22:47 : Carsten Bormann : To the known value to obtain a new value. At least that's, that's the.
+22:56 : Carsten Bormann : Theoretical view, of course, the, the.
+23:01 : Carsten Bormann : Somebody must have been there with a school driver and and changed the amount time from from ceiling to a wall.
+23:09 : Carsten Bormann : So there is a back story to do that but the the patch I think looks pretty good at this point in time.
+23:21 : Jan Romann : I'm now back, by the way.
+23:24 : Carsten Bormann : Okay, and.
+23:25 : Jan Romann : Actually issues.
+23:33 : Carsten Bormann : Yeah, I I just was saying that the patch essentially identifies a patch method and the information that is under SCF patch here is.
+23:44 : Carsten Bormann : Subject to that patch method and is modifying an instance that we think we all know of, but right now it's not identified in the context. I think that that's, that's the flaw.
+23:59 : OCF : Was my comment is we don't identify the instance where, where we're context snapshot, oh, ok, you know, we don't really.
+24:09 : OCF : Yeah.
+24:12 : OCF : Instance.
+24:13 : Jan Romann : The fun. I mean.
+24:16 : Jan Romann : Did the original examples had an at a thing ID, maybe we could include that again.
+24:22 : OCF : So when we construct the instance we don't name it.
+24:26 : Carsten Bormann : The the problem is that this also needs to be a specific version.
+24:34 : Carsten Bormann : And it establishes a new version.
+24:39 : Carsten Bormann : If we have a sequenced transport for these things, then.
+24:45 : Carsten Bormann : This can all be implicit.
+24:48 : Carsten Bormann : So the sequence.
+24:50 : OCF : Right or ordered.
+24:51 : Carsten Bormann : You in order to transport if these are freestanding messengers that float around somewhere in a database or whatever, then you need a way to, to connect them to the previous instance and to establish a name for the next instance. And the thing I can be.
+25:11 : Carsten Bormann : Can be part of that.
+25:14 : Carsten Bormann : So in the proof short data, we have a previous message ID.
+25:20 : OCF : Right. So that connects it to a sequence of messages, but it doesn't, doesn't point it to an instance.
+25:27 : OCF : With the URI of some kind.
+25:30 : OCF : And we, you know, JSON pointer or whatever, right?
+25:34 : OCF : But the instance is all, we know the instance because we just, we just referred to, we just created it, I guess.
+25:43 : OCF : Well, previous messages, ok, so the the deltas.
+25:48 : OCF : Okay.
+25:54 : OCF : Right.
+26:06 : OCF : So the the delta obtained its context by specifying the previous message ID, so you know how to process it by looking at that.
+26:17 : OCF : That's.
+26:28 : Jan Romann : Yeah, I guess.
+26:30 : Jan Romann : What you just mentioned, I mean the main difference is probably between the conex patch and the proof short delta that the one thing is consumed by the thing or some entity that can manipulate the thing probably, but the others is simply, yeah.
+26:52 : Jan Romann : This is addressed in a in a consumer I guess i suppose. Yeah.
+26:58 : Carsten Bormann : The thing could send a proof of short data to say this has changed with me.
+27:05 : Carsten Bormann : Somebody is could send the proof short data as an action.
+27:12 : Jan Romann : To have.
+27:14 : Carsten Bormann : These these two messages.
+27:19 : Carsten Bormann : Two messages probably look quite similar, but they have very different purposes.
+27:30 : OCF : Right, so SDF patches intended to modify the instance and group shot delta is intended to inform about changes in the instance.
+27:41 : OCF : So you might send a proof, you might send a context patch to a an instance and then it might, that server for that instance might send out a proof shot delta.
+27:53 : OCF : As a response, as a follow on to receive a patch and inform all of the other listeners on that instance that something has changed.
+28:03 : OCF : Did I get that right? Is that, is that.
+28:06 : OCF : Is that a plausible workflow for these two formats.
+28:13 : Jan Romann : And I think so. Yeah.
+28:17 : OCF : You know patches are for modifying and deltas are for informing.
+28:22 : OCF : About modifications or other spontaneous changes that might occur like sensor data or something like that.
+28:32 : OCF : Well I guess it wouldn't be sensor data because that would be an affordance. This would be more like a modification of an administrative.
+28:41 : OCF : Prop quality, like mountain type.
+28:49 : OCF : Right, so I I think I've always seen this as having the same semantics as a property, so in that, in that sense I think if we can get consensus on that, I think that would be a big step that everyone agrees that the semantics of a non affordance is the same as the semantics of a property in terms of.
+29:10 : OCF : You know, the, the formats of the SDF that around it and you know more or less how it's processed.
+29:22 : OCF : So that would be one point to, to verify that we have consensus on tomorrow.
+29:32 : Jan Romann : I guess that raises the again the question whether we needed an additional keyword or that we could just qualify as the property, something like of device on device.
+29:48 : Jan Romann : I mean, no.
+29:50 : OCF : Oh, one thing that.
+29:54 : OCF : That still looks.
+29:59 : OCF : I wouldn't say it looks funny. One thing I'm still questioning or wondering about is the the construct here of having SDF instance of and then and then SDF instance and it seems like there might be a, a a way to rearrange that to make it a little more.
+30:18 : OCF : I don't know I didn't even know what's wrong with it. I think it's probably fine. It's just it's just we have two keywords now and and I'm wondering if they're, that could all be done with one, but probably not as I look at it.
+30:30 : Carsten Bormann : We want to to distinguish instances from patches or data that's actually quite useful to structure the way it's now.
+30:40 : OCF : I think, I think so. And then having context and property as separate.
+30:49 : OCF : That's really obvious also, that makes it clear that context is the thing that you change independent of, you know, what the device. I guess, you know, the litmus test is still, we still need to discuss that, but it's it becomes more clear that what the litmus test would be.
+31:07 : OCF : Between context and property. Or at least it kind of provides a, a really clear background on which to.
+31:16 : OCF : Discuss that and figure that out.
+31:21 : OCF : Non affordance versus affordance. And yeah, what do we, what do we call them in general is another, another question.
+31:30 : OCF : We call them affordances, non affordances, we call them affordances, but they have special.
+31:37 : OCF : You know, access constraints or whatever.
+31:43 : OCF : That's, that's probably the big thing to get consensus on is such as a conceptual framing of what's an importance and what's a non important, and I think maybe spending time on the vocabulary of that, what do we call them might, might help. Help us all reach the same.
+32:02 : OCF : Perception of what, what we have, what we have here.
+32:08 : OCF : Okay.
+32:13 : OCF : Well no context snapshot.
+32:18 : OCF : Oh right, ok.
+32:23 : OCF : Okay snapshot context patch, proof shot delta. All right.
+32:30 : OCF : I think that's I mean I don't have any other comments or questions.
+32:41 : Ari Keränen : So I think all this looks good to me too, I wasn't able to follow everything because I had to attempt to two kids at the same time, but, but everything I followed made a lot of sense and I and I think the separation of this context from the STF property makes, makes a lot of sense at least intuitively.
+33:00 : Ari Keränen : Even though I don't maybe have an answer for the litmus test yet. And I think that's what they had three folks also felt strongly for if I remember correctly, that it makes sense to have a separate keyword.
+33:14 : Carsten Bormann : Great, Michael, can you click on the model patch table of contents entry.
+33:24 : OCF : Let's let's see where.
+33:26 : OCF : People of con oh hang on hang on.
+33:29 : Carsten Bormann : The window there is a table of contents and if you go down to model pitch, yeah. So, this is one thing that came up.
+33:43 : Carsten Bormann : Maybe somewhat dynamic.
+33:45 : OCF : Oh, right.
+33:46 : Carsten Bormann : And so we may not just be patching instances we actually maybe patching models. So this is pretty wild at the moment, but maybe we could keep in mind that this is probably something that we will encounter sooner or later, so we might be prepared for.
+34:10 : OCF : This is, this is again it's sort of reminds me of the the idea of what we're really doing is success of refinement, and so what what we're we've already drawn the line between the model and instance, but now we want to go back and refine the model again and if that does make sense to me anyway.
+34:30 : OCF : But it's, it's it begs the question of, well am I changing the, you know, if I if I have to change the model a lot, maybe I should have put those.
+34:40 : OCF : Those variables under context instead of as part of the model, but I'm not sure that that what I just said makes sense.
+34:50 : Carsten Bormann : The the example here is slightly weird because it it.
+34:55 : Carsten Bormann : Says, oh, somebody just invented the concept of a manufacturer and we now want to capture the manufacturer of the device so we we expand the database to be able to take on the manufacturers for the example is a bit weird, but if you if you can imagine.
+35:16 : Carsten Bormann : Ituation that you you want to put something into the context that wasn't possible before, then such a model patch actually makes makes some sense.
+35:28 : OCF : The sudden the the processing of that would go back to the.
+35:34 : OCF : The model. So the this SDF instance of pointer says model, oh John's not hearing us maybe, ok. Well hopefully a signal will come back. Actually, I don't see him in the It seems to have dropped off the participant list also.
+35:55 : OCF : Oh.
+35:56 : Carsten Bormann : School of visibility.
+35:58 : OCF : Okay.
+36:02 : OCF : So what I was saying was then presumably this the workflow for processing this message would go back to the, to the thing that's pointed at by SDF instance of and actually go modify that. So that someone else reading the model would now get the new, the new model after that. So there'd be some kind of.
+36:21 : OCF : You know.
+36:24 : OCF : Eventual consistency protocol that we'd need also, right, for everyone who's using that model.
+36:33 : Carsten Bormann : Yeah, and I think the, the actual consistency protocol is, is.
+36:39 : Carsten Bormann : Is very much orthogonal to what we find on, on the modeling level.
+36:46 : OCF : Yeah, yeah. I I think so. It's it's a tooling question more so than a model question.
+36:54 : Carsten Bormann : Now have three youngs in my participant list. One meeting and the other two are not in the meeting.
+37:01 : Jan Romann : I have a late.
+37:07 : Jan Romann : No I can't hear you anymore again. Sorry.
+37:11 : Carsten Bormann : We we were just quickly repeat.
+37:13 : Jan Romann : You just said.
+37:15 : Carsten Bormann : We were just thinking about model patches and of course there is the the this elephant in the room is is the way we achieve eventual consistency and this distributed system.
+37:31 : Carsten Bormann : Somehow influencing the modeling and.
+37:35 : Carsten Bormann : I I was arguing for trying to keep them orthogonal.
+37:40 : Carsten Bormann : Because these may not be entirely orthogonal in the end because you you want certain.
+37:49 : Carsten Bormann : Properties from a data type to be able to, to build a consensus on them. But I think we can address this in in a separate effort.
+38:04 : OCF : Should specifically draw a boundary now and not get into that, trying to puzzle that out right now. Or tomorrow I.
+38:13 : Carsten Bormann : There is something called CRDT, which is probably the the thing we want to.
+38:21 : Carsten Bormann : Look at.
+38:24 : OCF : Yeah, I mean there could even be a, another draft in ASDF for some suggestions of that an informative draft.
+38:40 : OCF : Okay.
+38:44 : OCF : So this looks like really great progress because now it it feels like there's a whole thing that hangs together and we aren't coming at it from two different directions. I mean, you know, tomorrow we'll, we'll probably have more discussion to do, but it feels like we have a proposal now that can, can, we can drive towards consensus.
+39:06 : Carsten Bormann : Okay, so I am going to I'm going to make some slides for tomorrow morning and maybe send them around a couple of times unfortunately, I haven't evening event two days so that will only be very late.
+39:26 : Carsten Bormann : But, if, if you get a message you might want to to look at this and we have a ten to minute ten to fifteen minute slot.
+39:37 : Carsten Bormann : In the meeting tomorrow. It's only one hour meeting, so we will have limited discussion but I I thought it might be good to bring up some of the principles that are in this document now and say that that we are moving towards convergence.
+39:59 : OCF : So I think that's, that's very good for tomorrow.
+40:03 : Carsten Bormann : Okay.
+40:09 : OCF : So did we lose Ariel also or.
+40:12 : Ari Keränen : Cool. No, I'm still here.
+40:14 : Ari Keränen : Bit yeah.
+40:15 : OCF : But I think.
+40:16 : Ari Keränen : And my quick quick in any words on the three discussions that like.
+40:22 : Ari Keränen : How did those go?
+40:25 : Carsten Bormann : We we discussed things that, that are kind of summarized in in this slide set but this summary is unilateral, so we haven't reverified with them.
+40:39 : Carsten Bormann : That this is actually what the result of the discussion was but they they provided these examples and kind of shaped this discussion. So, I I think it was really useful.
+40:55 : Ari Keränen : Going to.
+40:55 : OCF : It was.
+40:56 : Ari Keränen : Great. Thanks.
+40:58 : OCF : It was real tired and didn't really couldn't really follow all the details, but now it makes a lot of sense to me.
+41:10 : Carsten Bormann : Okay, and which case I would propose I start making the slides so.
+41:16 : OCF : Yeah, ok.
+41:19 : Ari Keränen : Cool.
+41:21 : Carsten Bormann : So see you tomorrow morning. Yeah.
+41:23 : Ari Keränen : Hey it's more morning.
+41:25 : OCF : Alright, thank you.
+41:27 : Ari Keränen : Guys.
+41:27 : Carsten Bormann : Do you remember that we have a different time zone situation.
+41:32 : OCF : Yeah, that's an eight hour offset now for the until Sunday. Oh, actually for oh, yeah, for eight hours for Europe and and.
+41:44 : OCF : Whatever we have for Korea I guess it's sixteen or seven I don't even know.
+41:50 : Carsten Bormann : So the the meeting tomorrow is nine o'clock Eastern European time.
+41:57 : Carsten Bormann : Which is eight o'clock central European time and not central European summer time, but central European time. So it will be midnight if I, my brain still works.
+42:10 : Carsten Bormann : Pacific time.
+42:11 : OCF : Perfect I think that's where I have it on my calendar. Let me, double check.
+42:18 : Carsten Bormann : If you subscribe to the, the ICS file provided by IGF.
+42:24 : Carsten Bormann : Liver.
+42:26 : OCF : I have at eleven PM so I guess I'm gonna need to change it. Okay, good. I'm glad we went over that.
+42:39 : OCF : Yeah.
+42:39 : Jan Romann : I'm probably not going to be able to join the meeting tomorrow, but maybe I'm going to be able to join maybe the first twenty minutes or so, but.
+42:54 : Jan Romann : Have an appointment so to speak right after or passed. So yeah. But I guess, yeah, I will check out the the video afterwards to follow up.
+43:13 : OCF : Okay, well I am lined up for oh wait a minute. That's gonna be actually I'm my time it's Wednesday midnight. Okay, now I have the right meeting. Okay, great.
+43:24 : Carsten Bormann : I stay in midnight is correct.
+43:27 : OCF : Yep, well that's what it's called wednesday. Twelve am. Wednesday. Okay perfect. Cool. Well, I will talk to you all then.
+43:36 : Carsten Bormann : Bye by.
+43:37 : Ari Keränen : Thanks. Thank.
+
